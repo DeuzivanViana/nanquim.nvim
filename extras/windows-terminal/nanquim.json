@@ -1,0 +1,23 @@
+{
+  "name": "Nanquim",
+  "background": "#0A0A0A",
+  "foreground": "#D9D9D9",
+  "cursorColor": "#FFCC00",
+  "selectionBackground": "#2A2D31",
+  "black": "#2A2D31",
+  "brightBlack": "#5C5D63",
+  "red": "#C85E60",
+  "brightRed": "#D97A7C",
+  "green": "#A3C679",
+  "brightGreen": "#B8D696",
+  "yellow": "#D5B05F",
+  "brightYellow": "#E2C47F",
+  "blue": "#6A90D0",
+  "brightBlue": "#89A9DE",
+  "purple": "#A178C4",
+  "brightPurple": "#B795D4",
+  "cyan": "#6EBAD7",
+  "brightCyan": "#8CCBE3",
+  "white": "#D9D9D9",
+  "brightWhite": "#FFFFFF"
+}

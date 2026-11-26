@@ -1,0 +1,24 @@
+# Nanquim — ghostty
+# Usage: copy to ~/.config/ghostty/themes/ and set `theme = nanquim` in the ghostty config
+background = #0A0A0A
+foreground = #D9D9D9
+cursor-color = #FFCC00
+cursor-text = #0A0A0A
+selection-background = #2A2D31
+selection-foreground = #D9D9D9
+palette = 0=#2A2D31
+palette = 1=#C85E60
+palette = 2=#A3C679
+palette = 3=#D5B05F
+palette = 4=#6A90D0
+palette = 5=#A178C4
+palette = 6=#6EBAD7
+palette = 7=#D9D9D9
+palette = 8=#5C5D63
+palette = 9=#D97A7C
+palette = 10=#B8D696
+palette = 11=#E2C47F
+palette = 12=#89A9DE
+palette = 13=#B795D4
+palette = 14=#8CCBE3
+palette = 15=#FFFFFF

@@ -1,0 +1,188 @@
+{
+  "name": "Nanquim",
+  "description": "A dark theme inspired by Vira Carbon: charcoal background, sea-green accent and soft pastel syntax colors.",
+  "colors": {
+    "bg_dim": "#060606",
+    "bg": "#0A0A0A",
+    "bg_1": "#111213",
+    "bg_2": "#17181A",
+    "bg_3": "#1E2023",
+    "bg_4": "#2A2D31",
+    "border": "#1C1E21",
+    "line_nr": "#3A3D42",
+    "fg": "#D9D9D9",
+    "fg_1": "#B4B5B8",
+    "fg_2": "#85868C",
+    "fg_3": "#5C5D63",
+    "teal": "#80CBC4",
+    "cyan": "#6EBAD7",
+    "blue": "#6A90D0",
+    "purple": "#A178C4",
+    "pink": "#D6808F",
+    "red": "#C85E60",
+    "orange": "#CD775C",
+    "yellow": "#D5B05F",
+    "green": "#A3C679",
+    "steel": "#90A9BC",
+    "gold": "#FFCC00",
+    "bright_red": "#D97A7C",
+    "bright_green": "#B8D696",
+    "bright_yellow": "#E2C47F",
+    "bright_blue": "#89A9DE",
+    "bright_purple": "#B795D4",
+    "bright_cyan": "#8CCBE3",
+    "white": "#FFFFFF"
+  },
+  "roles": {
+    "syntax": {
+      "comment": [
+        "fg_3",
+        "italic"
+      ],
+      "keyword": [
+        "cyan",
+        ""
+      ],
+      "control": [
+        "cyan",
+        "italic"
+      ],
+      "storage": [
+        "purple",
+        ""
+      ],
+      "operator": [
+        "cyan",
+        ""
+      ],
+      "punctuation": [
+        "cyan",
+        ""
+      ],
+      "function": [
+        "blue",
+        ""
+      ],
+      "type": [
+        "yellow",
+        ""
+      ],
+      "property": [
+        "red",
+        ""
+      ],
+      "key": [
+        "red",
+        ""
+      ],
+      "tag": [
+        "red",
+        ""
+      ],
+      "module": [
+        "red",
+        "italic"
+      ],
+      "attribute": [
+        "purple",
+        ""
+      ],
+      "decorator": [
+        "purple",
+        "italic"
+      ],
+      "string": [
+        "green",
+        ""
+      ],
+      "number": [
+        "orange",
+        ""
+      ],
+      "type_param": [
+        "orange",
+        ""
+      ],
+      "boolean": [
+        "pink",
+        ""
+      ],
+      "constant": [
+        "pink",
+        ""
+      ],
+      "regex": [
+        "pink",
+        ""
+      ],
+      "escape": [
+        "pink",
+        ""
+      ],
+      "self": [
+        "steel",
+        "italic"
+      ],
+      "enum_member": [
+        "steel",
+        ""
+      ],
+      "readonly": [
+        "steel",
+        ""
+      ],
+      "variable": [
+        "fg",
+        ""
+      ],
+      "parameter": [
+        "fg",
+        "italic"
+      ],
+      "heading": [
+        "cyan",
+        "bold"
+      ],
+      "link": [
+        "red",
+        "underline"
+      ]
+    },
+    "diagnostic": {
+      "error": "red",
+      "warn": "yellow",
+      "info": "blue",
+      "hint": "teal",
+      "ok": "green"
+    },
+    "git": {
+      "added": "green",
+      "modified": "blue",
+      "deleted": "red",
+      "untracked": "green",
+      "ignored": "fg_3",
+      "conflict": "orange"
+    },
+    "ui": {
+      "accent": "teal",
+      "cursor": "gold",
+      "selection": "bg_4",
+      "cursorline": "bg_1",
+      "float_bg": "bg_1",
+      "popup_bg": "bg_2",
+      "match": "yellow"
+    }
+  },
+  "variants": {
+    "black": {
+      "bg_dim": "#0A0A0A",
+      "bg": "#000000",
+      "bg_1": "#0C0D0E",
+      "bg_2": "#131416",
+      "bg_3": "#1A1C1F",
+      "bg_4": "#26292D",
+      "border": "#17181B",
+      "line_nr": "#34373C"
+    }
+  }
+}
